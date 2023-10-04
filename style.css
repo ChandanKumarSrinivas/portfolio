@@ -161,29 +161,6 @@ body{
   margin-bottom: 60px;
 }
 
-.section-title:before{
-  content: '';
-  position: absolute;
-  top: 56px;
-  left: 50%;
-  width: 140px;
-  height: 4px;
-  background: #3a6cf4;
-  transform: translateX(-50%);
-}
-
-.section-title:after{
-  content: '';
-  position: absolute;
-  top: 50px;
-  left: 50%;
-  width: 15px;
-  height: 15px;
-  border-radius: 50%;
-  background: #3a6cf4;
-  transform: translateX(-50%);
-}
-
 .about .content{
   position: relative;
   width: 100%;
